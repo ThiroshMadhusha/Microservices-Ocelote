@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sliit.MTIT.Manager.props" />
+</Project>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uANuuEEPohcbE3mjltvS7+Biy5gVK4K78vzhr/P5rWBfupMHT+mkNn/Aiot4GHBxbzlS6ohN3/g4aeYhIJ++xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiro\\source\\repos\\Sliit.MTIT.SportMicroservice\\Sliit.MTIT.Transport\\Sliit.MTIT.Transport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\thiro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thiro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\thiro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\thiro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\thiro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
